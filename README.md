@@ -1,6 +1,6 @@
 
 ### Olá! Sou Pi, e sou estudante de programação e pixel art
-<a href="https://pi-certificard.netlify.app/" alt="portfólio"><img src="
+<a href="https://pi-certificard.netlify.app/" alt="portfólio"><img src="https://media.discordapp.net/attachments/1027023215404515358/1042621578816540672/portfolio.png"/></a>
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pietrafn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
