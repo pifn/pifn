@@ -27,7 +27,7 @@
   <a href="https://t.me/pi_fn" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a href="https://codepen.io/19P1" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
   </div>
-  ![snake gif](https://github.com/Pietrafn/Pietrafn/blob/output/github-contribution-grid-snake.svg)
+  ![snake-gif](https://github.com/Pietrafn/Pietrafn/blob/output/github-contribution-grid-snake.svg)
 <!---
 Pietrafn/Pietrafn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
