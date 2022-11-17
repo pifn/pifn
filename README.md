@@ -28,7 +28,7 @@
     <a href="https://pin.it/3I2laX2" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a> 
   </div>
   
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/pietrafn/pietrafn/blob/output/github-contribution-grid-snake.svg)
 <!---
 Pietrafn/Pietrafn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
