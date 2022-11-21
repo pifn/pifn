@@ -13,7 +13,7 @@
   <a href="https://www.tc.df.gov.br/ice4/vordf/outros/html-comandos.html"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://kenzie.com.br/blog/o-que-e-python/"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-  <img align="right" alt="My-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="My-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1019802330146811906/1044388653125877810/hacker0.gif?width=676&height=676">
 </div>
 <div> 
   
