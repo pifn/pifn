@@ -1,6 +1,7 @@
 
 ### Olá! Sou Pi, e sou estudante de programação e pixel art
-<a href="https://pi-certificard.netlify.app/" alt="portfólio">PortFólio de Programação</a><br>
+<a href="https://linktr.ee/pi.fn_" alt="Portfólio Game Dev"> Portfólio de Desenvolvimento de Jogos </a><br>
+<a href="https://pi-certificard.netlify.app/" alt="portfólio">PortFólio de Programação Front End</a><br>
 <a href="https://www.artstation.com/wolfrokie" alt="Portfólio de Pixel Art">Portfólio Pixel Art</a>
 <div align="center">
   <a href="https://github.com/Pietrafn">
@@ -13,7 +14,7 @@
   <a href="https://www.tc.df.gov.br/ice4/vordf/outros/html-comandos.html"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://kenzie.com.br/blog/o-que-e-python/"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-  <img align="right" alt="My-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1019802330146811906/1044388653125877810/hacker0.gif">
+  <a href="https://linktr.ee/pi.fn_"><img align="right" alt="My-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1019802330146811906/1044388653125877810/hacker0.gif"></a>
 </div>
 <div> 
   
