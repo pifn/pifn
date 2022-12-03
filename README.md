@@ -1,7 +1,6 @@
 
 ### Olá! Sou Pi, e sou estudante de programação e pixel art
 <a href="https://linktr.ee/pi.fn_" alt="Portfólio Game Dev"> Portfólio de Desenvolvimento de Jogos </a><br>
-<a href="https://pi-portfolio.netlify.app/" alt="portfólio">PortFólio de Programação Front End</a><br>
 <a href="https://www.artstation.com/wolfrokie" alt="Portfólio de Pixel Art">Portfólio Pixel Art</a>
 <div align="center">
   <a href="https://github.com/Pietrafn">
