@@ -1,7 +1,8 @@
 
-### Olá! Sou Pi, e sou estudante de programação e pixel art
+### Olá! Sou Pi, e sou estudante de programação
+// e pixel art
 <a href="https://linktr.ee/pi.fn_" alt="Portfólio Game Dev"> Portfólio de Desenvolvimento de Jogos </a><br>
-<a href="https://www.artstation.com/wolfrokie" alt="Portfólio de Pixel Art">Portfólio Pixel Art</a>
+/*<a href="https://www.artstation.com/wolfrokie" alt="Portfólio de Pixel Art">Portfólio Pixel Art</a>*/
 <div align="center">
   <a href="https://github.com/Pietrafn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pietrafn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
