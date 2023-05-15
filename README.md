@@ -1,7 +1,7 @@
 
 ### Olá! Sou Pi
   <!--  -->
-<a href="https://linktr.ee/pi.fn_" alt="Portfólio Game Dev"> Portfólio</a><br>
+<!--<a href="https://linktr.ee/pi.fn_" alt="Portfólio Game Dev"> Portfólio</a><br>-->
   <!-- <a href="https://www.artstation.com/wolfrokie" alt="Portfólio de Pixel Art">Portfólio Pixel Art</a> -->
 <div align="center">
   <a href="https://github.com/pifn">
