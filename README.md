@@ -1,12 +1,12 @@
 
-### Olá! Sou Pi, e sou estudante de programação
+### Olá! Sou Pi
   <!--  -->
-<a href="https://linktr.ee/pi.fn_" alt="Portfólio Game Dev"> Portfólio de Desenvolvimento de Jogos </a><br>
+<a href="https://linktr.ee/pi.fn_" alt="Portfólio Game Dev"> Portfólio</a><br>
   <!-- <a href="https://www.artstation.com/wolfrokie" alt="Portfólio de Pixel Art">Portfólio Pixel Art</a> -->
 <div align="center">
-  <a href="https://github.com/Pietrafn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pietrafn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrafn&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/pifn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pifn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pifn&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <a href="https://blog.somostera.com/desenvolvimento-web/linguagem-c"><img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
