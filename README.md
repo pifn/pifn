@@ -1,8 +1,6 @@
 
-### Olá! Sou Pi
+### Olá! 
   <!--  -->
-<!--<a href="https://linktr.ee/pi.fn_" alt="Portfólio Game Dev"> Portfólio</a><br>-->
-  <!-- <a href="https://www.artstation.com/wolfrokie" alt="Portfólio de Pixel Art">Portfólio Pixel Art</a> -->
 <div align="center">
   <a href="https://github.com/pifn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pifn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
